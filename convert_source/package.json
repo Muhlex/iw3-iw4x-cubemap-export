@@ -1,0 +1,12 @@
+{
+  "name": "iw4x-cubemap-convert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.29.2"
+  }
+}
